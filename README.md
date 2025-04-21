@@ -20,9 +20,16 @@ RecoverFlow is a React Native application designed to assist patients in followi
 - **UI Kit**: shadcn/ui
 - **Build Tool**: Vite
 
-## Project Info
+## 📱 Screenshots
 
-**Live URL**: [Lovable Project](https://lovable.dev/projects/21f2c435-7591-4618-b6fe-1490ed9ca97e)
+Here are a few screens from the RecoverFlow mobile app illustrating key functionality:
+
+| Injury Location Selection | Injury Type Selection | Push Notification Reminder |
+|---------------------------|------------------------|----------------------------|
+| ![Injury Location](./screenshots/injuriy-location.png) | ![Injury Type](./screenshots/injury-type.png) | ![Push Notification](./screenshots/push-notifiation.png) |
+
+Each screen demonstrates a critical step in guiding users through their recovery journey, enhancing engagement through a clean and intuitive interface.
+
 
 ## How to Run Locally
 
